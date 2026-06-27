@@ -62,16 +62,12 @@ The client will send 6 commands automatically and print every response. The serv
 ## Demo — Successful Communication
 
 ### Server Terminal
-![Server Output]
-
-(screenshots/server_output.png)
+![Server Output](screenshots/Server_output.png)
 
 *Server starts, accepts connection, receives all 6 commands, sends responses, closes connection.*
 
 ### Client Terminal
-![Client Output]
-
-(screenshots/client_output.png)
+![Client Output](screenshots/Client_output.png)
 
 *Client connects, sends each command, receives and prints the server's response.*
 
